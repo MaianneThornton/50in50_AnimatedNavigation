@@ -34,7 +34,7 @@ In this project users will be able to:
 ### Links👩🏾‍💻
 
 - Solution URL: (https://github.com/MaianneThornton/50in50_AnimatedNavigation)
-- Live Site URL: (https://app.netlify.com/sites/loquacious-concha-fcfd0f/deploys/)
+- Live Site URL: (https://loquacious-concha-fcfd0f.netlify.app/)
 
 ## My process💭
 
